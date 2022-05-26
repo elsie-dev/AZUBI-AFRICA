@@ -1,6 +1,5 @@
 #! /bin/bash
-#python python_script.py
-#https:
+#https://github.com/elsie-dev/AZUBI-AFRICA/blob/sprint1/lab2.sh
 echo "Enter Size(N)"
 read N
 
